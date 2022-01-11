@@ -133,11 +133,11 @@ PrefabInstance:
     - target: {fileID: 297067948479024617, guid: 853ee6db66da89246a05a521c995da71, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9b8eadc4de0544646b75ddcc43f8fd06, type: 2}
+      objectReference: {fileID: 2100000, guid: c8f228794ee07874a9e5a3183469e0a8, type: 2}
     - target: {fileID: 6807991323952687578, guid: 853ee6db66da89246a05a521c995da71, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c69decf714398914fa7ee0e3bee91de5, type: 2}
+      objectReference: {fileID: 2100000, guid: c8f228794ee07874a9e5a3183469e0a8, type: 2}
     - target: {fileID: 7398218917080251402, guid: 853ee6db66da89246a05a521c995da71, type: 3}
       propertyPath: m_Name
       value: BeachsideTown_StarterEnvironment
@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8172438249396954850, guid: 853ee6db66da89246a05a521c995da71, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b7d285a48ca3dbc4db06b8931b05c8f1, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 853ee6db66da89246a05a521c995da71, type: 3}
 --- !u!1 &867579876
