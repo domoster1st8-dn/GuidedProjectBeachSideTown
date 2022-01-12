@@ -23,9 +23,9 @@ Material:
   m_Name: Flag2
   m_Shader: {fileID: -6465566751694194690, guid: cad8229dd41973b489201c7f86a7bbb3, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 1
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -96,10 +96,10 @@ Material:
     - Vector1_1004ad3cde104035901889466a6bbd08: 4.7
     - Vector1_1574a8b94f8b4b29bb10f007978713b6: 1
     - Vector1_298173b610c2487fa6921cb201c308aa: 5
-    - Vector1_57569aedbca5438b8fc2005a1435d099: 2
-    - Vector1_6e75af79b6f14c398800a80d990caedd: 3
+    - Vector1_57569aedbca5438b8fc2005a1435d099: 1.5
+    - Vector1_6e75af79b6f14c398800a80d990caedd: 5.3
     - Vector1_72d9f7a177e1454193a9668740079a72: 1
-    - Vector1_e84bca143d2c46d59ce64013a0272413: 0.5
+    - Vector1_e84bca143d2c46d59ce64013a0272413: 0.2
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
